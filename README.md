@@ -92,3 +92,15 @@ with a constant loop back to the beginning of the program.
 
 * The reduction may consume significant amounts of memory.  Ensure you have an
   adequate swap file in place to prevent crashes during the reduction process.
+
+
+## References
+
+The technique is outlined in detail in the [Shakacon
+presentation](https://www.youtube.com/watch?v=NmWwRmvjAE8).
+
+
+## Author
+
+reductio is a proof-of-concept from Christopher Domas
+([@xoreaxeaxeax](https://twitter.com/xoreaxeaxeax)).
